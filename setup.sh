@@ -12,3 +12,5 @@ fi
 
 # Add WASM toolchain
 rustup target add wasm32-unknown-unknown --toolchain nightly
+
+#
